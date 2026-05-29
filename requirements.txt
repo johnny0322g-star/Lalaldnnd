@@ -2,3 +2,4 @@ python-telegram-bot
 Cython
 PyGithub
 setuptools
+pyarmor
