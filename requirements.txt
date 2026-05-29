@@ -2,4 +2,4 @@ python-telegram-bot
 Cython
 PyGithub
 setuptools
-pyarmor
+pyarmor==7.7.4
